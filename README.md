@@ -1,5 +1,7 @@
 # React State Introduction
 
+**[Deployed Application](https://atlas-react-state-intro-vp.netlify.app/)**.
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Resources](#resources)
@@ -468,9 +470,9 @@ In this task, I deployed the React application to **Netlify** and ensured it was
 </details>
 
 <details>
-  <summary>3. Updated the Site Name (Optional):</summary>
+  <summary>3. Updated the Site Name:</summary>
 
-  - Changed the site name to the format `atlas-react-state-VP` for better identification.
+  - Changed the site name to the format `atlas-react-state-vp` for better identification.
 </details>
 
 <details>
@@ -483,7 +485,7 @@ In this task, I deployed the React application to **Netlify** and ensured it was
 ### **Result**
 
 - The application is successfully deployed on Netlify.
-- It is accessible via the following URL: 
+- It is accessible via the following URL: **[Deployed Application](https://atlas-react-state-intro-vp.netlify.app/)**.
 - The app includes all required features, including filtering, sorting, pagination, and enroll/drop functionality.
 
 ---
