@@ -1,6 +1,12 @@
-# React State Introduction
+<div align="center">
+  
+  # React State Introduction
 
-**[Deployed Application](https://atlas-react-state-intro-vp.netlify.app/)**.
+  ![pug college tech](https://github.com/user-attachments/assets/8e8081a2-ab89-43b7-bdbd-ef0d71534de5)
+
+**[Deployed Project](https://atlas-react-state-intro-vp.netlify.app/)**.
+
+</div>
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -28,7 +34,7 @@ This project provides a hands-on introduction to state management in React. You 
 - Supporting search, sorting, and pagination of the course directory.
 - Allowing users to enroll in and drop courses.
 
-**Deployed Project Provided in Curriculum for Reference:** [Live Demo](https://atlas-react-state-intro.netlify.app/)
+**Provided in Curriculum for Reference:** [Live Demo](https://atlas-react-state-intro.netlify.app/)
 
 ---
 
