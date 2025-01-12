@@ -523,7 +523,7 @@ In addition to completing the curriculum tasks, I implemented the following enha
 
 ---
 
-### Reflections
+## Reflections
 
 This project was a fun way to sharpen the React skills I’ve been building over time. While I came into this project with prior experience in React, including familiarity with `useState`, `useEffect`, and `useContext`, it was a great opportunity to put those skills into action in a structured and purposeful way.
 
