@@ -2,9 +2,10 @@
   
   # React State Introduction
 
-  ![pug college tech](https://github.com/user-attachments/assets/8e8081a2-ab89-43b7-bdbd-ef0d71534de5)
+![tech student pug](https://github.com/user-attachments/assets/cbfb3f80-7603-4144-bc70-e19bd5e34586)
 
-**[Deployed Project](https://atlas-react-state-intro-vp.netlify.app/)**.
+
+**[Deployed Project](https://atlas-react-state-intro-vp.netlify.app/)**
 
 </div>
 
